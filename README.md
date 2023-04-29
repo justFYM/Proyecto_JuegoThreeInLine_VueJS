@@ -8,7 +8,7 @@ Debido a que se generaron los archivos estáticos del proyecto, es posible visua
   <img src="./IMG/StackTec.PNG" alt="Descripción de la imagen">
 </p>
 
-## Vista gráfica del juego ```Juego Three In Line```
+## Vista gráfica del juego ```Three In Line```
 
 <p align="center">
   <img src="./IMG/ThreeLines.PNG" alt="Descripción de la imagen">
